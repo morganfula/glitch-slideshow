@@ -35,6 +35,7 @@
 .slides--contained .slide__img {
   width: 800px;
   max-width: 100%;
+  filter: brightness(80%);
 }
 
 .slide__text {
@@ -48,7 +49,7 @@
 }
 
 .slide:first-child .slide__text {
-  color: #ffae1a;
+  color: #15c9ff;
 }
 
 .slide:nth-child(2) .slide__text {
